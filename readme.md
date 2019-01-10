@@ -2,3 +2,9 @@
 
 由于GitHub显示公式以及跳转会有不同，建议大家下载下来阅读。
 
+参考：
+
+1. 《线性代数及其应用》第五版
+2. 3Blue1Brown科普视频-线性代数的本质，地址：https://www.bilibili.com/video/av6731067
+3. 《Introduction to Data Mining》
+
