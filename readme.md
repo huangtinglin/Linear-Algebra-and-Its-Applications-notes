@@ -8,3 +8,4 @@
 2. 3Blue1Brown科普视频-线性代数的本质，地址：https://www.bilibili.com/video/av6731067
 3. 《Introduction to Data Mining》
 
+如果觉得有用的朋友，希望能给个star支持鼓励下~感谢各位老板。
